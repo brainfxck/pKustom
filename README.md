@@ -10,5 +10,5 @@ AUTHOR:
   - BRAIN (STEAM_0:1:149906042)
 
 CREDITS TO:
-  - Falco (STEAM_0:0:8944068): a few features (such as propsounds for instance) come from a propkill script he made called "Falco's Small Scripts" https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=104808533
+  - Falco (STEAM_0:0:8944068): a few features (such as propsounds for instance) come from a propkill script he made called "Falco's Small Scripts" https://steamcommunity.com/sharedfiles/filedetails/?&id=104808533
   - Trial (STEAM_0:1:68249268): the physline concept is from him
