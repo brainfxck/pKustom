@@ -5,6 +5,7 @@ Highly customizable propkill script
 - Gives you the ability to adjust colors, switch between multiple materials/sizes/designs for various visuals.
 - I've also been asked to implement a few of the old propkill scripts features (which arent mine) in the script.
 - This is NOT a cheat.
+- NOTE: This is hard coded, basically anything could be improved/optimized at that point, but the script is still prob better than 80% of the other pk scripts
 
 AUTHOR:
   - BRAIN (STEAM_0:1:149906042)
